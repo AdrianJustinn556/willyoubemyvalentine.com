@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(243, 110, 128);
+    text-align: center;
+}
+.aab{
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+}
+#catt{
+    width: 60%;
+    height: auto;
+    margin-bottom: 0;
+}
+button{
+    font-size: 110%;
+    border-radius: 10px;
+    width: 180px;
+    margin-left: 5px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+#abb{
+    margin-top: 2%;
+    margin-bottom: 20px;
+    font-size: 130%;
+}
+#no{
+    background-color: rgb(235, 19, 19);
+}
+#yes{
+    background-color: rgb(30, 221, 30);
+}
+h6{
+    text-align: left;
+    margin: 0;
+}
